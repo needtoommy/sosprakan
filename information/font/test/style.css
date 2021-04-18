@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'ThaiSansNeue-Light';
+  src: url('/path-to/ThaiSansNeue-Light.woff2') format('woff2'),
+       url('/path-to/ThaiSansNeue-Light.woff') format('woff'),
+       url('/path-to/ThaiSansNeue-Light.ttf')  format('truetype');
+}
+
+body {
+  font-family: 'ThaiSansNeue-Light', sans-serif;
+}
